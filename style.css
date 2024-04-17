@@ -1,0 +1,67 @@
+     body{
+  background-image: url(https://img.freepik.com/free-vector/matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.jpg?size=626&ext=jpg&ga=GA1.1.553209589.1713312000&semt=ais);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #333;
+  line-height: 1.6;
+}
+
+h1, h2, h3{
+  font-family: 'Roboto', Arial, sans-serif;
+  color: #4a4a4a;
+  font-size: 24px;
+  line-height: 1.2;
+}
+
+a {
+  color: #007bff;
+  text-decoration:none;
+}
+
+a:hover{
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.card {
+  background-color: #bfefff;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  border-radius: 3%;
+}
+
+#profile_picture {
+    border-radius: 50%;
+    filter:drop-shadow;
+}
+
+.btn {
+  background-color: #FFA500;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #FF8C00;
+}
+
+.card a {
+  color: black;
+}
